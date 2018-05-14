@@ -16,3 +16,7 @@ def current_player(board)
     player = "X"
   end
 end
+
+def current_player(board)
+  player
+end
